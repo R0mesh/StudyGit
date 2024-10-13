@@ -1,9 +1,0 @@
-{
-  "$type": "Sungero.DataExport.ExportingObject, Sungero.DataExport",
-  "Uuid": "67b668f0-535f-453f-8f0e-be1f7e280746",
-  "ModuleNameGuid": "67b668f0-535f-453f-8f0e-be1f7e280746",
-  "HelpCode": "DirRX_HelpDesk",
-  "Status": "Active",
-  "SortingPriority": "Medium",
-  "StoreAsDefaultSetting": true
-}

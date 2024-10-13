@@ -52,10 +52,6 @@
   "InterfaceNamespace": "DirRX.HelpDesk",
   "IsolatedAssemblyName": "DirRX.HelpDesk.Isolated",
   "IsolatedNamespace": "DirRX.HelpDesk.Isolated",
-  "IsVisible": false,
-  "Overridden": [
-    "IsVisible"
-  ],
   "PublicStructures": [],
   "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
   "ResourceInterfaceNamespace": "DirRX.HelpDesk",
